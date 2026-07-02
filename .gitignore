@@ -1,0 +1,5 @@
+# Super-repo: only root-level artifacts
+node_modules/
+dist/
+.env
+*.log
